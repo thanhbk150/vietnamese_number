@@ -14,6 +14,7 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
+```Ruby
 VietnameseNumber.number_in_words(123456789)
 # => "một trăm hai mươi ba triệu bốn trăm năm mươi sáu ngàn bảy trăm tám mươi chín"
-
+```
